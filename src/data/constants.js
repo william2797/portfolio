@@ -1,6 +1,6 @@
 export const Bio = {
   name: "William Souza",
-  roles: ["Desenvolvedor Front-End", "UI/UX Designer", "Programador"],
+  roles: ["Dev Front-End", "UI/UX Designer", "Programador"],
   description:
     "Sou uma pessoa motivada e versátil, sempre pronta para enfrentar novos desafios. Com paixão pelo aprendizado, dedico-me a entregar resultados de alta qualidade. Com uma atitude positiva e uma mentalidade de crescimento, estou pronto para fazer uma contribuição significativa e alcançar grandes conquistas",
 
