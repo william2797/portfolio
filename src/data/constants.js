@@ -6,7 +6,7 @@ export const Bio = {
 
   github: "https://github.com/william2797",
   resume:
-    "https://drive.google.com/file/d/1WAU2WV5p3MnWNa5zVPffvLxv6jcm6kij/view?usp=sharing",
+    "https://drive.google.com/file/d/13C4NqQQaJGmwsAQ8uSF9Xq_Mrez5bTzu/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/devwill27",
   insta: "https://www.instagram.com/rishav_chanda/",
 };
