@@ -8,7 +8,7 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/13C4NqQQaJGmwsAQ8uSF9Xq_Mrez5bTzu/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/devwill27",
-  insta: "https://www.instagram.com/rishav_chanda/",
+  insta: "https://www.instagram.com/williamdss27/",
 };
 
 export const skills = [
